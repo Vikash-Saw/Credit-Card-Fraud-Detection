@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection
 
 
-A Credit Card Fraud Detection, It involves creating a system that identifies potentially fraudulent transactions made using credit cards.
+## Project description - A Credit Card Fraud Detection, It involves creating a system that identifies potentially fraudulent transactions made using credit cards.
 
 1. Data Collection: Gather historical transaction data, including features like transaction amount, location, time, and cardholder information.
 2. Data Preprocessing: Clean the data by handling missing values, outliers, and duplicates and Normalize or scale features to ensure consistent comparisons.
